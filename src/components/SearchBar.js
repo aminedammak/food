@@ -24,6 +24,7 @@ export default SearchBar;
 const styles = StyleSheet.create({
   backgroundStyle: {
     marginTop: 15,
+    marginBottom: 10,
     backgroundColor: "rgb(204, 204, 204)",
     height: 50,
     marginHorizontal: 15,
